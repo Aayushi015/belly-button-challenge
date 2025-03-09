@@ -103,8 +103,4 @@ Dataset Source: samples.json
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📩 Contact**
 
-<<<<<<< HEAD
 For any questions or contributions, feel free to reach out via GitHub Issues. 🚀🎨
-=======
-For any questions or contributions, feel free to reach out via GitHub Issues. 🚀🎨
->>>>>>> ce38175d261a296daa1b949270732b9e417311ee
